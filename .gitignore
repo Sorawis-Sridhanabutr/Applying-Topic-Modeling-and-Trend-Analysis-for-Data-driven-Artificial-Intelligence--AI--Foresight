@@ -1,0 +1,3 @@
+# Ignore BERTopic model folders
+02_bertopic/bertopic_model_trial_8/
+02_bertopic/bertopic_model_trial_8_reduced/

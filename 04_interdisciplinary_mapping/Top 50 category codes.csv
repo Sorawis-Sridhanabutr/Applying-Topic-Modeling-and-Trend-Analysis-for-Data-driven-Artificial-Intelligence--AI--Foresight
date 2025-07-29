@@ -1,0 +1,51 @@
+code,count,description,domain_group
+cs.AI,9959,Artificial Intelligence,Computer Science
+cs.LO,256,Logic in Computer Science,Computer Science
+cs.NE,167,Neural and Evolutionary Computing,Computer Science
+cs.LG,150,Machine Learning,Computer Science
+I.2.4,135,Knowledge Representation,Computer Science
+cs.CL,76,Computation and Language (NLP),Computer Science
+I.2.3,72,Deduction and Theorem Proving,Computer Science
+cs.CV,72,Computer Vision and Pattern Recognition,Computer Science
+cs.DB,60,Databases,Computer Science
+I.2.0,56,Artificial Intelligence,Computer Science
+68T30,52,Knowledge Representation,Computer Science
+cs.MA,50,Multiagent Systems,Computer Science
+cs.IR,48,Information Retrieval,Computer Science
+I.2,47,Artificial Intelligence,Computer Science
+I.2.6,47,Learning,Computer Science
+cs.CC,44,Computational Complexity,Computer Science
+I.2.8,40,"Problem Solving, Control Methods",Computer Science
+cs.PL,40,Programming Languages,Computer Science
+F.4.1,39,Mathematical Logic,Computer Science
+cs.GT,37,Computer Science and Game Theory,Computer Science
+68T27,33,Logic in Artificial Intelligence,Computer Science
+68T20,29,Problem solving in mathematics subject classificaion,Computer Science
+I.2.7,28,Natural Language Processing (NLP),Computer Science
+cs.RO,27,Robotics,Computer Science
+68T05,24,Learning and Adaptive Systems in mathematics Subject,Computer Science
+68T37,23,Reasoning under Uncertainty in Mathematics,Computer Science
+68T01,22,Knowledge Acquisition in Mathematics Subject Classification,Computer Science
+I.2.11,22,Distributed Artificial Intelligence (DAI),Computer Science
+cs.HC,22,Human-Computer Interaction,Computer Science
+I.2.1,20,Applications and Expert Systems,Computer Science
+cs.SE,19,Software Engineering,Computer Science
+cs.DS,19,Data Structures and Algorithms,Computer Science
+cs.CE,18,Computational Engineering,Computer Science
+stat.ML,16,Machine Learning,Statistics
+cs.DC,16,Distributed Computing,Computer Science
+cs.NI,16,Networking and Internet Architecture,Computer Science
+J.3,15,Life and Medical Sciences,Computer Science
+03E72,15,Theory of Fuzzy Sets,Mathematics
+H.2.8,14,Database Applications,Database Management
+68T42,12,Neural Nets and Deep Learning,Computer Science
+03B52,11,Fuzzy Logic,Mathematics
+cs.DL,11,Digital Libraries,Computer Science
+q-bio.NC,11,Neurons and Cognition,Quantitative Biology
+68T99,10,Artificial Intelligence,Computer Science
+cs.DM,9,Discrete Mathematics,Computer Science
+nlin.AO,9,Adaptaion and Self-organising systems,Nonlinear Sciences
+68T07,9,Computational Learning Theory,Computer Science
+quant-ph,9,Quantum Physics,Physics
+68T50,9,Natural Language Processing (NLP),Computer Science
+97R40,8,Artificial Intelligence in Mathematics Education,Computer Science

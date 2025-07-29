@@ -1,0 +1,4 @@
+# Auto detect text files and perform LF normalization
+* text=auto
+02_bertopic/bertopic_model_trial_8/** filter=lfs diff=lfs merge=lfs -text
+02_bertopic/bertopic_model_trial_8_reduced/** filter=lfs diff=lfs merge=lfs -text
