@@ -53,6 +53,9 @@ pip install -r requirements.txt
 
 ### Load BERTopic Models
 
+The full BERTopic models (too large for GitHub) are available via OneDrive:
+[Download the models](https://universityofexeteruk-my.sharepoint.com/:f:/g/personal/ss1781_exeter_ac_uk/Em-B2bTRTqZChbay3NIISDUB6E8iCrbjGfVqxW9ogVSJ_Q?e=ZkLPVl)
+
 ```python
 from bertopic import BERTopic
 
